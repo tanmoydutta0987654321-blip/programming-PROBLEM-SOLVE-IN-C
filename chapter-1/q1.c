@@ -1,12 +1,5 @@
-// Write a C program to print the name , age , Address , using specific format
 #include<stdio.h>
-
-int main()
-{
-    char Name; 
-    //int Age; char Address;
-    // printf("Enter your Name :");
-    scanf("%c",&Name);
-    printf("%c",Name);
+int main(){
+    printf("My name is Tanmoy.");
     return 0;
 }
